@@ -1,0 +1,33 @@
+.header{
+    padding: 30px 0px 30px 0px;
+}
+#bls-logo{
+    width: 400px;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block
+}
+.jumbotron{
+    padding-bottom: 30px;
+}
+
+#marsh{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 40px;
+}
+
+.nav{
+    font-family: 'Oswald', sans-serif;
+    color: #90a4ae;
+    font-size: 24px;
+    text-align: center;
+}
+.nav-link{
+    color:#90a4ae;
+    padding: 20px; 
+    text-decoration-line: none;
+}

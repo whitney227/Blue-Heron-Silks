@@ -1,0 +1,19 @@
+{
+  "name": "blue-heron-silks",
+  "version": "1.0.0",
+  "description": "art portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitney227/Blue-Heron-Silks.git"
+  },
+  "author": "Cecilia Ridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitney227/Blue-Heron-Silks/issues"
+  },
+  "homepage": "https://github.com/whitney227/Blue-Heron-Silks#readme"
+}
