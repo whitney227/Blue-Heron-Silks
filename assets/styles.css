@@ -46,3 +46,34 @@
     color:#90a4ae;
     padding-right: 5px;
 }
+.card-deck{
+    padding: 40px;
+    background-color: #00739a;
+}
+.card-img-top{
+    border-style: solid;
+    border-width: thin;
+    border-color: #90a4ae;
+    
+}
+.card-body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.card-title{
+    font-family: 'Oswald', sans-serif;
+}
+.card-text{
+    color: #90a4ae;
+    font-size: 20px !important;
+}
+#collectionBtn{
+    background-color: #00739a !important;
+}
+#bottom-row{
+    margin-right: -15px; 
+    margin-left: -15px; 
+}
+.news-container{
+    background-color: #00739a;
+}
