@@ -60,9 +60,11 @@
     font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
-.card-title{
-    font-family: 'Oswald', sans-serif;
+.mb-5, .my-5{
+    margin-bottom: 0 !important;
+    font-family: 'Oswald', sans-serif;    
 }
+
 .card-text{
     color: #90a4ae;
     font-size: 20px !important;
@@ -74,6 +76,16 @@
     margin-right: -15px; 
     margin-left: -15px; 
 }
-.news-container{
-    background-color: #00739a;
+#festival-image{
+    padding-top: 50px;
 }
+#festival-name{
+    font-family: 'Open Sans', sans-serif;
+}
+#festival-logo{
+    object-fit: scale-down;
+    height: 200px;
+    width: 200px;
+}
+
+
