@@ -87,6 +87,10 @@
     height: 200px;
     width: 200px;
 }
+.w3-image{
+    width: 100% !important;
+    height: auto;
+}
 
 
 
