@@ -65,12 +65,12 @@
     padding: 40px;
     background-color: #00739a;
 }
-.card-img-top{
+/* .card-img-top{
     border-style: solid;
     border-width: thin;
     border-color: #90a4ae;
     
-}
+} */
 .card-body{
     font-family: 'Open Sans', sans-serif;
     text-align: center;
