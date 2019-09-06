@@ -114,6 +114,16 @@
     padding-top: 30px;
     color: white
 }
+.img-circle{
+   
+    border-radius: 50%;
+ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 150px;
+}
 
 
 
