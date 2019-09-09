@@ -6,35 +6,36 @@
     }
   }
   
-  /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
+/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
     .column {
-      width: 100%;
+        width: 100%;
     }
-  }
-
+}
+    
 .index-body{
     background-color: #00739a
 }
 .header{
     padding: 30px 0px 30px 0px;
-
+    position: relative;
+    
 }
-#bls-logo{
-    width: 400px;
-    height: 150px;
-    margin-right: auto;
-    margin-left: auto;
+.img-circle{
+    border-radius: 50%;
     display: block;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 250px;
+    position: relative;
 }
-
 
 #marsh{
     margin-right: auto;
     margin-left: auto;
     display: block;
-    border-radius: 40px;
+    border-radius: 15px;
 }
 .jumbotron{
     padding-top: 2rem;
@@ -113,16 +114,6 @@
 #available-designs{
     padding-top: 30px;
     color: white
-}
-.img-circle{
-   
-    border-radius: 50%;
- 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    height: 150px;
 }
 
 
