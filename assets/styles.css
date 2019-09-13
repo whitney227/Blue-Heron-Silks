@@ -23,6 +23,8 @@
 }
 .img-circle{
     border-radius: 50%;
+    border-color: white;
+    border-style: solid;
     display: block;
     margin-left: auto;
     margin-right: auto;
