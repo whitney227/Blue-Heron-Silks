@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.blueheronsilks.com/</title>
+  <link>http://www.blueheronsilks.com/</link>
+
+<item>
+     <link>http://www.blueheronsilks.com/</link>
+     <title>Blue Heron Silks</title>
+     <description>Blue Heron Silks</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.blueheronsilks.com/index.html</link>
+     <title>Blue Heron Silks</title>
+     <description>Blue Heron Silks</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.blueheronsilks.com/collections.html</link>
+     <title>Blue Heron Silks</title>
+     <description>Blue Heron Silks</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.blueheronsilks.com/about.html</link>
+     <title>Blue Heron Silks</title>
+     <description>Blue Heron Silks</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.blueheronsilks.com/news.html</link>
+     <title>Blue Heron Silks</title>
+     <description>Blue Heron Silks</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.blueheronsilks.com/contact.html</link>
+     <title>Blue Heron Silks</title>
+     <description>Blue Heron Silks</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
